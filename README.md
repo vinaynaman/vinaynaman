@@ -44,8 +44,8 @@
  | :---: | :---: 
 
 #### A some of the work which is done by me and it is most popular on the YouTube & Github 👇
-| [MOVIE_GENRE_PREDICTION](https://github.com/vinaynaman/movie_genre_prediction) | [REVIEW_SCRAPPER](https://github.com/vinaynaman/review_scrapper) | [URL_SHORTENER](https://github.com/vinaynamani/URL_Shortener)  | [BANK_NOTE_AUTHENTICATOR](https://github.com/vinaynamani/bank-note-authenticator) | [Fake News Detection](https://github.com/vinaynamani/Fake-news-classifier--LSTM) | [License Plate Detection & Recognition](https://youtu.be/yMQvcWBx1fE) | [Music Player with Emotion Recognition](https://github.com/Spidy20/Music_player_with_Emotions_recognition) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| [MOVIE_GENRE_PREDICTION](https://github.com/vinaynaman/movie_genre_prediction) | [REVIEW_SCRAPPER](https://github.com/vinaynaman/review_scrapper) | [URL_SHORTENER](https://github.com/vinaynamani/URL_Shortener)  | [BANK_NOTE_AUTHENTICATOR](https://github.com/vinaynamani/bank-note-authenticator) | [Fake News Detection](https://github.com/vinaynamani/Fake-news-classifier--LSTM) |
+| :---: | :---: | :---: | :---: | :---: |
 
 
 ### GitHub' Stats📈
