@@ -4,7 +4,7 @@
 ## Hey there 👋 My name is Vinay Namani. 🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaynamani/)&nbsp; 
-![](https://Visitor-badge.glitch.me/badge?page_id=spidy20.profileviews-badge)
+![](https://Visitor-badge.glitch.me/badge?page_id=vinaynamani.profileviews-badge)
  
 
 🌱 I’m currently exploring: My self who can build a great future in Data Science field.
