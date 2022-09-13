@@ -27,7 +27,7 @@
 | Pandas | Numpy | PIL | Matplotlib | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
-#### For Machine Learning, Deep learning & Computer Vision
+#### 🤖For Machine Learning, Deep learning & Computer Vision
 | Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) |
 | :---: | :---: | :---: | :---: | :---: |
 
