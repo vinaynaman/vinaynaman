@@ -31,7 +31,7 @@
 | Keras | SKLearn | Tensorflow | PyTorch | OpenCV(CV2) |
 | :---: | :---: | :---: | :---: | :---: |
 
-#### For Web Development & WebScraping
+#### 🕸️For Web Development & WebScraping
 | Flask | StreamLit | BS4 | Requests | Dash |
 | :---: | :---: | :---: | :---: | :---: |
 
