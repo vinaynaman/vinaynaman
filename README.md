@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/vinaynaman/vinaynaman/blob/main/demo.gif" width="360"/>
 
 
-## Hey there 👋 My name is Kushal Bhavsar, people know me as spidy🕷️ 
+## Hey there 👋 My name is Vinay Namani. 🖥️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaynamani/)&nbsp; 
 ![](https://Visitor-badge.glitch.me/badge?page_id=spidy20.profileviews-badge)
