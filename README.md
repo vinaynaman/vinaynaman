@@ -17,7 +17,7 @@
 ## Languages
 
 | Python | Sql | Java | C | 
-| :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 
 #### Apart from all these, I am Pythonist🐍
 
