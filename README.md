@@ -49,3 +49,5 @@
 ![vinaynaman's github stats](https://github-readme-stats.vercel.app/api?username=vinaynaman&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaynaman&layout=compact&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/vinaynaman/vinaynaman/blob/output/github-contribution-grid-snake.gif)
